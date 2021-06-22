@@ -61,4 +61,3 @@ email authentication headers, and TCP proxy TLVs standardized by haproxy.
 * DANE for TLS client authentication (current draft) (6 months)
 
 
-
