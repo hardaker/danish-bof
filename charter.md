@@ -3,7 +3,7 @@
 - Name: DANE AutheNtication for Iot Service Hardening
 - Revision: 1.2.0
 
-## Objectives
+## Objective
 
 The DANE AutheNtication for Iot Service Hardening (DANISH) WG seeks to
 extend DANE to encompass TLS client authentication using certificates or Raw Public Keys (RPK).
