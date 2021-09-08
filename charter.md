@@ -52,8 +52,11 @@ protocols.
 
 ## Deliverables:
 
-* DANCE architecture and use cases (IoT, SMTP client,
-  authentication to DNS services, ...) document (9 months)
+
+
+* DANCE will specify DANE-enabled TLS client authentication use cases
+  and an architecture (IoT, SMTP client, authentication to DNS services,
+  ...) document (9 months)
 
 * DANE client authentication and publication practices (current draft)
   (6 months after architecture)
