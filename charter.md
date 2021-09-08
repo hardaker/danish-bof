@@ -17,12 +17,13 @@ Certification Authority (CA) is one example of a root of trust for a
 PKI, which can be then used for establishing trust in certified public
 keys.
 
-The DNS namespace, together with DNSSEC, forms the most widely-recognized
-namespace and authenticated lookup mechanism on the Internet.
-DANE builds on this authenticated lookup mechanism to enable public key-based
-TLS authentication which is resilient to impersonation, but only
-for TLS server identities.
-However, the DANE WG did not define authentication for TLS client identities.
+The DNS namespace, together with DNSSEC, forms the most
+widely-recognized namespace and authenticated lookup mechanism on the
+Internet.  DANE [RFC6698] builds on this authenticated lookup
+mechanism to enable public key-based TLS authentication which is
+resilient to impersonation, but only for TLS server identities.
+However, the DANE WG did not define authentication for TLS client
+identities.
 
 In response to the challenges related to ambiguity between identically
 named identities issued by different CAs, application owners
