@@ -42,9 +42,8 @@ architecture describing the primary components and interaction patterns.
 DANCE will define how DNS DANE records will represent client
 identities for TLS connections.
 
-DANCE will coordinate with the TLS working group to define any
-required TLS protocol updates required to support client
-authentication using DANE.
+DANCE will coordinate with the TLS working group to define any TLS
+protocol updates required to support client authentication using DANE.
 
 The DANCE scope of work will be initially limited to just TLS client
 authentication.  Future work may include using client identifiers for
