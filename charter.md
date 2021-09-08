@@ -24,9 +24,6 @@ TLS authentication which is resilient to impersonation, but only
 for TLS server identities.
 However, DANE did not define authentication for TLS client identities.
 
-<!-- defines a lookup mechanism for TLS -->
-<!-- server identities and a published trust-path to their public key. -->
-
 In response to the challenges related to ambiguity between identically
 named identities issued by different CAs, application owners
 frequently choose to onboard client identities to a single private PKI
