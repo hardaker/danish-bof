@@ -56,9 +56,10 @@ protocols.
 * DANCE architecture and use cases (IoT, SMTP client,
   authentication to DNS services, ...) document (9 months)
 
-* DANE client authentication and publication practices (current draft) (6 months)
+* DANE client authentication and publication practices (current draft)
+  (6 months after architecture)
 
 * A TLS extension to indicate DANE identification capability and the
-  client's DANE identity name (current draft) (6 months)
+  client's DANE identity name (current draft) (6 months after architecture)
 
 
