@@ -22,13 +22,13 @@ namespace and authenticated lookup mechanism on the Internet.
 DANE builds on this authenticated lookup mechanism to enable public key-based
 TLS authentication which is resilient to impersonation, but only
 for TLS server identities.
-However, DANE did not define authentication for TLS client identities.
+However, the DANE WG did not define authentication for TLS client identities.
 
 In response to the challenges related to ambiguity between identically
 named identities issued by different CAs, application owners
 frequently choose to onboard client identities to a single private PKI
 with a limited CA set that is specific to that vertical.  This creates
-a silo effect where different parts of large deployment can not
+a silo effect where different parts of large deployments can not
 communicate.  Examples of where DANCE could be useful includes SMTP
 transport client authentication, authentication of DNS authoritative
 server to server zone file transfers over TLS, authentication to DNS
